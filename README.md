@@ -9,4 +9,4 @@ Il client invia il codice al server il quale risponde con tutti i film che vengo
 giorno.
 
 
-Esempio a scopo didattico per la gestione di più richieste da parte del server utilizzando un selector.
+Esempio a scopo didattico per la gestione di richieste non bloccanti utilizzando un selector.
